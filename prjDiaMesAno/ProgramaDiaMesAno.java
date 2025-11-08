@@ -1,8 +1,8 @@
-package prjDiaMesAnoVetor;
+package prjDiaMesAno;
 
 import java.util.Scanner;
 
-public class ProgramaDiaMesAnoVetor {
+public class ProgramaDiaMesAno {
 
 	public static void main(String[] args) {
 	Scanner ler = new Scanner(System.in);
