@@ -9,7 +9,7 @@ public class ProgramaPotenciacao {
 		
 			System.out.print("Vetor A: [ ");		
 		for (i=0; i<TAM; i++) {
-			a[i]= 1<<i;
+			a[i]= (int) Math.pow(2, i);
 			System.out.print(a[i]+" ");
 		}
 		System.out.println("].");
